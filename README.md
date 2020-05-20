@@ -8,6 +8,16 @@
 ## Screenshots da interdace do software
 - [Tela Principal] 
 
+![](img/1.png)
+
+- [Tela Faturamento]
+
+![](img/2.png)
+
+- [Tela Busca]
+
+![](img/3.png)
+
 
 
 
