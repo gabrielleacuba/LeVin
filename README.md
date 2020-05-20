@@ -6,7 +6,8 @@
 
 
 ## Screenshots da interdace do software
-
+- [Tela Principal] 
+![nav](https://github.com/gabrielleacuba/LeVin/tree/master/img/1.png)
 
 
 
